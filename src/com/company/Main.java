@@ -9,5 +9,7 @@ public class Main {
         audi.model="a5";
         audi.door="2";
 
+        yury is adding some importtant test cases and he will done very soon
+
     }
 }
