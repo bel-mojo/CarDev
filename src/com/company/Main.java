@@ -3,13 +3,13 @@ package com.company;
 public class Main {
     public static void main(String[] args){
         Car audi=new Car();
+        audi.color="blue";
+        audi.number="2022";
+        audi.model="rs6";
+        audi.door="4";
 
-        audi.color="red";
-        audi.number="2568";
-        audi.model="a5";
-        audi.door="2";
-
-        yury is adding some importtant test cases and he will done very soon
+        System.out.println(" i want to buy a new car but i want a fast one.");
+        System.out.println("im trying to combine this code with yuris");
 
     }
 }
